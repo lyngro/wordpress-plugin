@@ -1,2 +1,2 @@
-# wordpress-plugin
-Wordpress Plugin
+# Lyngro Wordpress Plugin
+
