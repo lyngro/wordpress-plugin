@@ -29,7 +29,11 @@ Feedback, suggestions, questions or concerns? E-mail us at [support@lyngro.com](
 #### 1. The main settings screen of the wp-lyngro plugin ####
 ![1. The main settings screen of the wp-lyngro plugin](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/screenshot_settings.jpg)
 
-## Changelog ##
+#### 2. The standard JavaScript include being inserted before `</body>` ####
+![2. The standard JavaScript include being inserted before body tag](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/screenshot3_javascript.JPG)
+
+#### 3. A sample `JSON-LD` meta tag  ####
+![3. A sample `JSON-LD` meta tag](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/jscreenshot2_jsonld.JPG)
 
 
 
