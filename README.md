@@ -33,7 +33,7 @@ Feedback, suggestions, questions or concerns? E-mail us at [support@lyngro.com](
 ![2. The standard JavaScript include being inserted before body tag](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/screenshot3_javascript.JPG)
 
 #### 3. A sample `JSON-LD` meta tag  ####
-![3. A sample `JSON-LD` meta tag](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/jscreenshot2_jsonld.JPG)
+![3. A sample `JSON-LD` meta tag](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/screenshot2_jsonld.JPG)
 
 
 
