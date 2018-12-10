@@ -2,9 +2,8 @@
 Contributors: lyngro
 Tags: analytics, post, page
 Requires at least: 4.0
-Tested up to: 1.0
+Tested up to: 4.0
 Stable tag: trunk
-License: GPLv2 or later
 
 The LynGro plugin real-time and historical analytics to your content through a platform designed and built for digital publishing.
 
