@@ -27,7 +27,7 @@ Feedback, suggestions, questions or concerns? E-mail us at [support@lyngro.com](
 ## Screenshots ##
 
 #### 1. The main settings screen of the wp-lyngro plugin ####
-![1. The main settings screen of the wp-lyngro plugin](https://raw.githubusercontent.com/lyngro/wordpress-plugin/screenshot_settings.jpg)
+![1. The main settings screen of the wp-lyngro plugin](https://raw.githubusercontent.com/lyngro/wordpress-plugin/master/screenshot_settings.jpg)
 
 ## Changelog ##
 
