@@ -1,0 +1,62 @@
+.lyngro-recommended-widget,
+.lyngro-recommended-widget * {
+	box-sizing: border-box;
+}
+
+.lyngro-recommended-widget {
+	display: block;
+	width: 100%;
+}
+
+.lyngro-recommendation-widget li img {
+	float: left;
+	margin-right: 15px;
+}
+
+.lyngro-recommendation-widget li a {
+	padding: 0;
+}
+
+.lyngro-recommendation-widget li:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.lyngro-author {
+	display: block;
+	margin-top: 5px;
+}
+
+
+@supports(display: grid){
+
+	.lyngro-recommended-widget {
+		display: grid;
+		grid-template-rows: auto;
+	}
+
+	.lyngro-recommendation-widget {
+		grid-column: 1 / 3;
+	}
+
+	.lyngro-recommendation-widget li {
+		margin-bottom: 15px;
+	}
+
+	.lyngro-recommendation-widget.display-thumbnail li {
+		display: grid;
+		grid-template-columns: 1fr 2fr;
+		grid-column-gap: 15px;
+	}
+
+	.lyngro-recommendation-widget li img {
+		grid-column: 1 / 2;
+		float: none;
+		margin-right: 0;
+	}
+
+	.lyngro-recommendation-widget .lyngro-title-author-wrapper {
+		grid-column: 2 / 3;
+	}
+}
